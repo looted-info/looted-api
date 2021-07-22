@@ -1,7 +1,9 @@
 {
-    "name": "aws-golang-rest-api-with-dynamodb",
-    "version": "1.0.0",
-    "description": "Serverless CRUD service exposing a REST HTTP interface",
-    "author": "",
-    "license": "MIT"
+  "name": "looted-api",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serverless-http": "^2.7.0"
   }
+}
