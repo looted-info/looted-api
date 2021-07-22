@@ -5,5 +5,10 @@
   "dependencies": {
     "express": "^4.17.1",
     "serverless-http": "^2.7.0"
+  },
+  "devDependencies": {
+    "serverless": "^2.52.1",
+    "serverless-dynamodb-local": "^0.2.40",
+    "serverless-offline": "^7.0.0"
   }
 }
